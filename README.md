@@ -6,7 +6,7 @@ To use it without mastercomfig, simply move everything in the overrides folder t
 ## This config includes:
 - Binds file to manage all binds used and created by the config
 - Settings file to manage all settings added by the config.
-- Simple yet highly customizable Crosshair/Viewmodel Switcher, with optional viewmodel-only mode. (**Uses Arrow Keys**)
+- Simple yet highly customizable Crosshair/Viewmodel Switcher, with an optional viewmodel-only mode. (**Uses Arrow Keys**)
 	
   This is a modified/combined version of cfg.tf's and Ghost1294551's scripts. They are
 	simplified to cause as little headaches as possible when editing the scripts. Anyone is free to publish a standalone
