@@ -18,10 +18,9 @@ To use it without mastercomfig, simply move everything in the overrides folder t
 - Tabgraph enabled by default, can be disabled in settings.
 
 ## Most notable game settings changed:
-- Fov and viewmodels are set to **90**
+- Viewmodel Fov is set to **90**
 - Quickswitch and autoreload are enabled
 - Medic radar is enabled and set to **59%** of patient health
 - Medic autoheal (healing without holding the button) is enabled
 - Hitsounds enabled, have different pitches for high and low damage
 - Killsounds enabled, pitches are the same by default
-- All tutorial prompts disabled.
