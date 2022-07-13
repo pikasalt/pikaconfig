@@ -1,7 +1,7 @@
 This is my personal config, it is not intended to be used by everyone, but I have made it publicly available.
 
 # **The config is intended to be used alongside mastercomfig, as it is structured to use it's addon system.**
-To use it without mastercomfig, simply move everything in the overrides folder to the config's base folder.
+To use it without mastercomfig, simply move everything in the overrides folder to the cfg folder.
 
 ## This config includes:
 - Binds file to manage all binds used and created by the config
